@@ -10,7 +10,7 @@
     <li>JavaScript</li>
 </ul>
 
-##Steps to Use:
+<h3>Steps to Use:</h3>
 
 ---
 
