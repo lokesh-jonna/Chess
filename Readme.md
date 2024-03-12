@@ -2,9 +2,6 @@
 
 <p>A Chess Game written in HTML, CSS and JAVASCRIPT .</p>
 
-### Use of the Project:
-
-<p>This chess game is just for entertainment purpose . </p>
 
 <h3>Used Technologies</h3>
 <ul>
@@ -13,7 +10,7 @@
     <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
+##Steps to Use:
 
 ---
 
@@ -25,7 +22,7 @@ git clone https://github.com/lokesh-jonna/Chess.git
 
 - Go to the directory
 - Run the index.html file
-- Start Playing!!!
+- Start Playing!
 
 
 
